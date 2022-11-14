@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import com.eduteam2.tunani.R
 
 
-class SettngsFragment : Fragment() {
+class SettingsFragment : Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

@@ -42,7 +42,7 @@
         tools:layout="@layout/fragment_questions" />
     <fragment
         android:id="@+id/settngsFragment"
-        android:name="com.eduteam2.tunani.ui.SettngsFragment"
+        android:name="com.eduteam2.tunani.ui.SettingsFragment"
         android:label="fragment_settngs"
         tools:layout="@layout/fragment_settngs" />
 </navigation>
