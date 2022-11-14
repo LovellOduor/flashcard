@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/knowlegeTestFragment">
+
+    <fragment
+        android:id="@+id/answersFragment"
+        android:name="com.eduteam2.tunani.ui.AnswersFragment"
+        android:label="fragment_answers"
+        tools:layout="@layout/fragment_answers" />
+    <fragment
+        android:id="@+id/editQuestionFragment"
+        android:name="com.eduteam2.tunani.ui.EditQuestionFragment"
+        android:label="fragment_edit_question"
+        tools:layout="@layout/fragment_edit_question" />
+    <fragment
+        android:id="@+id/editTopicFragment"
+        android:name="com.eduteam2.tunani.ui.EditTopicFragment"
+        android:label="fragment_edit_topic"
+        tools:layout="@layout/fragment_edit_topic" />
+    <fragment
+        android:id="@+id/knowlegeTestFragment"
+        android:name="com.eduteam2.tunani.ui.KnowlegeTestFragment"
+        android:label="fragment_knowlege_test"
+        tools:layout="@layout/fragment_knowlege_test" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.eduteam2.tunani.ui.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
+    <fragment
+        android:id="@+id/myCardsFragment"
+        android:name="com.eduteam2.tunani.ui.MyCardsFragment"
+        android:label="fragment_my_cards"
+        tools:layout="@layout/fragment_my_cards" />
+    <fragment
+        android:id="@+id/questionsFragment"
+        android:name="com.eduteam2.tunani.ui.QuestionsFragment"
+        android:label="fragment_questions"
+        tools:layout="@layout/fragment_questions" />
+    <fragment
+        android:id="@+id/settngsFragment"
+        android:name="com.eduteam2.tunani.ui.SettngsFragment"
+        android:label="fragment_settngs"
+        tools:layout="@layout/fragment_settngs" />
+</navigation>

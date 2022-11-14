@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/editQuestionFragment"
+        android:title="EditQuestions" />
+    <item
+        android:id="@+id/answersFragment"
+        android:title="Answers" />
+    <item
+        android:id="@+id/editTopicFragment"
+        android:title="EditTopic" />
+    <item
+        android:id="@+id/knowlegeTestFragment"
+        android:title="Knowledge Test" />
+    <item
+        android:id="@+id/loginFragment"
+        android:title="Login" />
+    <item
+        android:id="@+id/myCardsFragment"
+        android:title="My Cards" />
+    <item
+        android:id="@+id/questionsFragment"
+        android:title="Questions" />
+    <item
+        android:id="@+id/settngsFragment"
+        android:title="Settings" />
+</menu>
