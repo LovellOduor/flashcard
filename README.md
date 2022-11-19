@@ -1,4 +1,4 @@
-# Flashcard App Tunani
+# Flashcard App **(Tunani)**
 
 The flash card app allows learners to test their knowledge on new concepts they have learned and record them in a question and answer format like:
 Question: What is a ViewModel ?
