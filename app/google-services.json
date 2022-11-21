@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741053956129",
+    "project_id": "flashcard-da30d",
+    "storage_bucket": "flashcard-da30d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741053956129:android:2ef1bce9782372318ae360",
+        "android_client_info": {
+          "package_name": "com.eduteam2.tunani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741053956129-91bglfnir53993qr5mfi1fh6h09i77b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa6iC9gqWB4RyBqobEaYjwBf5FVE2EAPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741053956129-91bglfnir53993qr5mfi1fh6h09i77b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
